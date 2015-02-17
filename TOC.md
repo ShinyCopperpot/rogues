@@ -2,7 +2,7 @@
 
 [Képességek](szabalyok/kepessegek.md)
 
-[Hírnév]()
+[Hírnév](szabalyok/hirnev.md)
 
 [Ép elme]()
 
