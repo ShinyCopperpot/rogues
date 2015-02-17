@@ -1,14 +1,5 @@
 # Képességek
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     
-| column     |      column |    column    
-| will       |        will |     will     
-| be         |          be |      be      
-| left       |       right |    center    
-| aligned    |     aligned |   aligned
-
 Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel bír. Ezek egy ember esetén nullától hatig terjedhetnek. Természetesen a nem emberi karaktereknek lehetnek más maximum értékeik. Az átlagos emberi képesség értéke három. A nullás képesség komoly fogyatékosságot jelent.
 
 ## A képességek:
@@ -17,36 +8,37 @@ Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel
 
 Erő, állóképesség és egészség. Megmutatja, hogy karakterünk mennyi sebesülést bír ki, mekkora súlyt képes felemelni, és milyen messzire képes elhajítani dolgokat.
 
-Értékek:
-0: | Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
-1: | Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
-2: | Karakterünk kissé beteges, gyenge alkat.
-3: | Átlagos testalkat.
-4: | Izmosabbak és szívósabbak vagyunk az átlagnál.
-5: | Karakterünk most már sok mindent kibír.
-6: | Szervezetünk mint a vas, izmaink akár egy súlyemelőé.
-7+:| Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.
+Érték|Jellemzés|
+:----|:--------|
+0: | Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.|
+1: | Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.|
+2: | Karakterünk kissé beteges, gyenge alkat.|
+3: | Átlagos testalkat.|
+4: | Izmosabbak és szívósabbak vagyunk az átlagnál.|
+5: | Karakterünk most már sok mindent kibír.|
+6: | Szervezetünk mint a vas, izmaink akár egy súlyemelőé.|
+7+:| Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.|
 
 ### KÉZÜGYESSÉG (KÉZ):
 Karakterünk technikai érzéke és kézügyessége.
 
-Értékek:|
-:--| :----------------------------------------------------------------
-0: | Karakterünk keze hiányzik, vagy megbénult.
-1: | Éles tárgyat még véletlenül se vegyünk a kezünkbe.
-2: | Karakterünk keze durva az aprólékos munkákhoz.
-3: | Átlagos kézügyesség.
-4: | Tehetségesebbek vagyunk az átlagnál.
-5: | Karakterünk szépen rajzolt már gyermekkorában is.
-6: | Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.
-7+:| Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.
+Érték|Jellemzés|
+:----|:--------|
+0: | Karakterünk keze hiányzik, vagy megbénult.|
+1: | Éles tárgyat még véletlenül se vegyünk a kezünkbe.|
+2: | Karakterünk keze durva az aprólékos munkákhoz.|
+3: | Átlagos kézügyesség.|
+4: | Tehetségesebbek vagyunk az átlagnál.|
+5: | Karakterünk szépen rajzolt már gyermekkorában is.|
+6: | Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.|
+7+:| Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.|
 
 ### ÜGYESSÉG (ÜGY):
 
 Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebesség is. Ha harcolni akarunk, elengedhetetlen a magas ügyesség. Egy kör alatt ekkora távolságot képes a karakter sétálva megtenni méterben.
 
 Érték|Jellemzés|
-:--|:----------------------------------------------------------------|
+:----|:--------|
 0|Karakterünk mozgásképtelen, nyaktól lefelé béna.|
 1|A csiga hozzánk képest versenyló.|
 2|Karakterünk nehezen bukfencezik, kissé lomha.|
@@ -60,8 +52,8 @@ Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebessé
 
 Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberibb karakterünk.
 
-|Érték|Jellemzés|
-|:--|:----------------------------------------------------------|
+Érték|Jellemzés|
+:----|:--------|
 |0|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
 |1|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
 |2|Karakterünk nem túlzottan társaságkedvelő.|
@@ -75,7 +67,8 @@ Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberi
 
 Ez a jellemző azt is megmutatja, hogy karakterünk mennyire bírja a stresszt, a félelmet, a fizikai fájdalmat. Akaraterőnket is ez jellemzi.
 
-Értékek:
+Érték|Jellemzés|
+:----|:--------|
 0:|Karakterünk a hirtelen zajoktól sokkot kap.
 1:|Gyávaságunkról híresek vagyunk.
 2:|Karakterünk ijedősebb az átlagnál.
@@ -89,7 +82,8 @@ Ez a jellemző azt is megmutatja, hogy karakterünk mennyire bírja a stresszt, 
 
 Problémamegoldó képesség, dolgok észrevétele, reakció, emlékezőtehetség.
 
-Értékek:
+Érték|Jellemzés|
+:----|:--------|
 0:|Karakterünk agyatlan zombi, csak vegetálni képes.
 1:|Némelyik kutya okosabb nálunk.
 2:|Karakterünk lassú felfogású.
@@ -102,8 +96,8 @@ Problémamegoldó képesség, dolgok észrevétele, reakció, emlékezőtehetsé
 ### AURA:
 Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatához szükséges. A modern világban nincs jelentősége, hiszen lecsökkent a mágia szintje, és a mágikus képzettségeket sem tanítja senki. Fantasy környezetben viszont elengedhetetlen.
 
-Értékek:|
---|------------------------------------------------------------------------------------
+Érték|Jellemzés|
+:----|:--------|
 0:|Karakterünk mágiamentes területen nőtt föl, teljesen ki van szolgáltatva a mágiának.
 1:|A legutolsó állatnak is nagyobb tehetsége van a mágiához.
 2:|Karakterünk nem varázslónak termett.
@@ -117,9 +111,8 @@ Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatá
 
 Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A papi csodatételek előfeltétele.
 
-Értékek:
-  |
- -|-
+Érték|Jellemzés|
+:----|:--------|
 0:|Karakterünknek nincs lelke. Ez igen kellemetlen. 
 1:|Meg se próbálkozzunk papi pályával.
 2:|Imáink általában süket fülekre találnak.
@@ -133,7 +126,8 @@ Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A pa
 
 Ez az, amire mindenkinek szüksége van. Karakterünk számára fontos eseményeket befolyásolhatunk vele, mégpedig úgy hogy egy kockadobásánál hozzáadhatjuk a kockán kijött értékhez néhány, vagy akár az összes szerencsepontját, amíg el nem fogy. Természetesen így is csak a kocka maximum értékéig jöhet ki eredmény, de az összes kockához hozzáadódik. A kaland végén visszakapjuk az elhasznált szerencsepontjainkat.
 
-Értékek:
+Érték|Jellemzés
+:----|:--------
 0:|Karakterünknek a véletlen sosem kedvez. Állandó életveszélyben vagyunk.
 1:|Semmi sem úgy sül el, ahogy számítanánk rá.
 2:|Karakterünk életében gyakran közbejön valami bosszantó apróság.
@@ -163,6 +157,7 @@ ERŐNLÉT * 40. Ekkora súlyt képes megemelni karakterünk kilogrammban.
 Aki erősebb, az kézifegyverrel nagyobbat sebez. A karakterünk által okozott sebzéshez hozzáadható a sebzés plusz. Az értékét a következő táblázatból lehet kiolvasni. Az embertelenül magas értékek ne riasszanak meg senkit, szörnyek és mágiával átalakított emberek elérhetnek ilyen magas erőnléti értékeket is.
 
 Erőnlét|Sebzés plusz
+:------|:-----------
 0|Nincs sebzés
 1|-1
 2 - 4|0
