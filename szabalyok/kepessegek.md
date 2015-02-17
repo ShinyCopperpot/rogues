@@ -18,33 +18,35 @@ Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel
 Erő, állóképesség és egészség. Megmutatja, hogy karakterünk mennyi sebesülést bír ki, mekkora súlyt képes felemelni, és milyen messzire képes elhajítani dolgokat.
 
 Értékek:
-0: Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
-1: Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
-2:|Karakterünk kissé beteges, gyenge alkat.
-3:|Átlagos testalkat.
-4:|Izmosabbak és szívósabbak vagyunk az átlagnál.
-5:|Karakterünk most már sok mindent kibír.
-6:|Szervezetünk mint a vas, izmaink akár egy súlyemelőé.
-7+:|Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.
+0: | Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
+1: | Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
+2: | Karakterünk kissé beteges, gyenge alkat.
+3: | Átlagos testalkat.
+4: | Izmosabbak és szívósabbak vagyunk az átlagnál.
+5: | Karakterünk most már sok mindent kibír.
+6: | Szervezetünk mint a vas, izmaink akár egy súlyemelőé.
+7+:| Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.
 
 ### KÉZÜGYESSÉG (KÉZ):
 Karakterünk technikai érzéke és kézügyessége.
 
-Értékek:
-0:|Karakterünk keze hiányzik, vagy megbénult.
-1:|Éles tárgyat még véletlenül se vegyünk a kezünkbe.
-2:|Karakterünk keze durva az aprólékos munkákhoz.
-3:|Átlagos kézügyesség.
-4:|Tehetségesebbek vagyunk az átlagnál.
-5:|Karakterünk szépen rajzolt már gyermekkorában is.
-6:|Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.
-7+:|Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.
+Értékek:|
+:--| :----------------------------------------------------------------
+0: | Karakterünk keze hiányzik, vagy megbénult.
+1: | Éles tárgyat még véletlenül se vegyünk a kezünkbe.
+2: | Karakterünk keze durva az aprólékos munkákhoz.
+3: | Átlagos kézügyesség.
+4: | Tehetségesebbek vagyunk az átlagnál.
+5: | Karakterünk szépen rajzolt már gyermekkorában is.
+6: | Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.
+7+:| Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.
 
 ### ÜGYESSÉG (ÜGY):
 
 Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebesség is. Ha harcolni akarunk, elengedhetetlen a magas ügyesség. Egy kör alatt ekkora távolságot képes a karakter sétálva megtenni méterben.
 
-Értékek:
+Értékek:|
+:--| :----------------------------------------------------------------
 0:|Karakterünk mozgásképtelen, nyaktól lefelé béna.
 1:|A csiga hozzánk képest versenyló.
 2:|Karakterünk nehezen bukfencezik, kissé lomha.
@@ -58,15 +60,16 @@ Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebessé
 
 Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberibb karakterünk.
 
-Értékek:
-0:|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.
-1:|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.
-2:|Karakterünk nem túlzottan társaságkedvelő.
-3:|Átlagos az emberekkel való kapcsolatunk.
-4:|Szeretünk beszélgetni.
-5:|Karakterünknek jó a meggyőző képessége.
-6:|Színészeket megszégyenítő módon játszunk az életben.
-7+:|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.
+|Értékek:| |
+|:--| :--------------------------------------------------------|
+|0:|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
+|1:|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
+|2:|Karakterünk nem túlzottan társaságkedvelő.|
+|3:|Átlagos az emberekkel való kapcsolatunk.|
+|4:|Szeretünk beszélgetni.|
+|5:|Karakterünknek jó a meggyőző képessége.|
+|6:|Színészeket megszégyenítő módon játszunk az életben.|
+|7+:|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.|
 
 ### HIDEGVÉR (HIDV):
 
