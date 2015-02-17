@@ -15,7 +15,7 @@ Erős gyomor|1|Éber Alvás|1|Kapcsolatok|1-4
 Éles érzékek|1-3|Irányérzék|1|Szervezet tagság|1-4
 Fájdalomtűrés|1-3|Kis alvásigény|1-2|Vagyon|1-4
 Immunitás|1|Ösztönös mágiaell.|3
-Hajlékony izületek|1|Szimp. az állatoknak|2
+Hajlékony ízületek|1|Szimp. az állatoknak|2
 Halhatatlanság|4|Tökéletes memória|2
 Hosszú élet|1|Veszélyérzet|2
 Kétkezesség|2
@@ -43,9 +43,9 @@ Süketség|1-3|Makacsság|1-3|Változó hangulat|1-4
 Sérülékenység|1-3|Meggondolatlanság|1-3
 Vakság|1-4|Megszállottság|1-3
 Vérzékenység|4|Őszinteség|1-3
-||Rossz memória|1
-||Rossz szokások|1-3
-||Szégyenlősség|1-3
+ | |Rossz memória|1
+ | |Rossz szokások|1-3
+ | |Szégyenlősség|1-3
 
 Szociális:|     |Felelősség:|     |
 :---------|:---:|:----------|:---:|
