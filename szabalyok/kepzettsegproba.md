@@ -31,7 +31,7 @@ Viszont, ha a mesélő úgy látja, hogy a próbára képzetlenül is van esély
 ##Ellenpróbák
 Ha karakterünk egy másik ellen akarja használni egy képzettségét, a támadó próbát dob, a védekező pedig a védő képzettségéhez hozzáad nyolcat. Ez lesz a támadó nehézsége. Védekezőnek minősül: Harcban, akit támadnak, lopakodásnál az észlelő. Alapesetben a játékos. (Inkább a mesélő dobjon.) 
 
-**Opcionális szabály:**
+**Opcionális szabály:**  
 A védekező is dobhat, az ő dobását kell összehasonlítani a támadóéval. Ilyenkor egyenlő vagy magasabb érték esetén a védekező nyer. Kivételes sikert csak kivételes sikerrel lehet kivédeni. Ez a megoldás több esélyt ad a szerencsének, de lassítja a játékot.
 
 ##Kiegészítő képzettségek használata
@@ -47,7 +47,7 @@ A kiegészítő képzettségpróba nehézsége|Szint (Opcionális)|Bonusz a pró
 30|12-13|+6
 36|14+|+7
 
-**Opcionális szabály:**
+**Opcionális szabály:**  
 Ha nem akarunk az ilyen képzettségpróbák során kétszer dobni, egyszerűen adjuk hozzá a dobáshoz a kiegészítő képzettség szintjéből származó bonuszt.
 
 ##Szerencse
@@ -75,20 +75,20 @@ Teljes sötétségben|- 4
 
 ##A balsiker hatása
 
-Észrevétel, tudományok (INT):
+**Észrevétel, tudományok (INT):**  
 Karakterünk semmit sem ért a témához, ráadásul mindenki látja rajta.
 
-Atlétika (ÜGY):
+**Atlétika (ÜGY):**  
 Kificamodott izületek, csonttörés. 1K6 pontnyi sebződés.
 
-Harc (ÜGY):
+**Harc (ÜGY):**  
 Karakterünk sikeresen eltalálja csapatának egyik tagját. Ha erre nincs esély, saját magát.
 
-Meggyőzés, csábítás (EMP):
+**Meggyőzés, csábítás (EMP):**  
 Teljesen karakterünk ellen vannak azok, akiket meg akartunk győzni. Nagy eséllyel megtámadják.
 
-Javítás, készítés (KÉZ):
+**Javítás, készítés (KÉZ):**  
 A tárgy javíthatatlanul tönkremegy.
 
-Mágia (AURA):
+**Mágia (AURA):**  
 A megpróbált varázslat szintje*K6 sebzésű mágiakitörés szint*3m sugarú körben a varázsló körül. Ha karakterünk sikeres Mágiaellenállás próbát tesz a (varázslat szintje +1) * 5-ös nehézség ellen, a sebzésnek csak a felét szenvedi el.
