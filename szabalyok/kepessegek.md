@@ -106,7 +106,8 @@ Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatá
 Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A papi csodatételek előfeltétele.
 
 Értékek:
- --- | --- 
+  |
+ -|-
 0:|Karakterünknek nincs lelke. Ez igen kellemetlen. 
 1:|Meg se próbálkozzunk papi pályával.
 2:|Imáink általában süket fülekre találnak.
