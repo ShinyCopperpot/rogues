@@ -45,30 +45,30 @@ Karakterünk technikai érzéke és kézügyessége.
 
 Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebesség is. Ha harcolni akarunk, elengedhetetlen a magas ügyesség. Egy kör alatt ekkora távolságot képes a karakter sétálva megtenni méterben.
 
-Értékek:| |
-:--| :----------------------------------------------------------------|
-0:|Karakterünk mozgásképtelen, nyaktól lefelé béna.|
-1:|A csiga hozzánk képest versenyló.|
-2:|Karakterünk nehezen bukfencezik, kissé lomha.|
-3:|Átlagos ügyesség.|
-4:|Gyorsabbak vagyunk az átlagnál.|
-5:|Könnyedén szaltózunk, gyorsan futunk.|
-6:|Karakterünk kötéltáncosnak termett.|
-7+:|Ilyen kecses mozgással csak a vadászó nagyvadak mozognak.|
+Érték|Jellemzés|
+:--|:----------------------------------------------------------------|
+0|Karakterünk mozgásképtelen, nyaktól lefelé béna.|
+1|A csiga hozzánk képest versenyló.|
+2|Karakterünk nehezen bukfencezik, kissé lomha.|
+3|Átlagos ügyesség.|
+4|Gyorsabbak vagyunk az átlagnál.|
+5|Könnyedén szaltózunk, gyorsan futunk.|
+6|Karakterünk kötéltáncosnak termett.|
+7+|Ilyen kecses mozgással csak a vadászó nagyvadak mozognak.|
 
 ### EMPÁTIA (EMP):
 
 Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberibb karakterünk.
 
 |Érték|Jellemzés|
-|:-|:----------------------------------------------------------|
-|0 |Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
-|1 |Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
-|2 |Karakterünk nem túlzottan társaságkedvelő.|
-|3 |Átlagos az emberekkel való kapcsolatunk.|
-|4 |Szeretünk beszélgetni.|
-|5 |Karakterünknek jó a meggyőző képessége.|
-|6 |Színészeket megszégyenítő módon játszunk az életben.|
+|:--|:----------------------------------------------------------|
+|0|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
+|1|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
+|2|Karakterünk nem túlzottan társaságkedvelő.|
+|3|Átlagos az emberekkel való kapcsolatunk.|
+|4|Szeretünk beszélgetni.|
+|5|Karakterünknek jó a meggyőző képessége.|
+|6|Színészeket megszégyenítő módon játszunk az életben.|
 |7+|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.|
 
 ### HIDEGVÉR (HIDV):
