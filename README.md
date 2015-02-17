@@ -64,7 +64,7 @@ Letöltés:
 - A PDF-ben letölthető szabálykönyv megszűnt, helyette a webes szabálykönyv kapott nyomtatóbarát elrendezést. 
 - Új karakterlap! V16.1 
 - Mesélői Karakterlap! 
-- {On-line Karaktergenerátor!} 
+- [Online Karaktergenerátor!]
 
 ### 2004. 11. 20. 
 
