@@ -9,8 +9,8 @@ Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel
 Erő, állóképesség és egészség. Megmutatja, hogy karakterünk mennyi sebesülést bír ki, mekkora súlyt képes felemelni, és milyen messzire képes elhajítani dolgokat.
 
 Értékek:
-0:|Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
-1:|Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
+0: Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
+1: Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
 2:|Karakterünk kissé beteges, gyenge alkat.
 3:|Átlagos testalkat.
 4:|Izmosabbak és szívósabbak vagyunk az átlagnál.
@@ -106,6 +106,7 @@ Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatá
 Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A papi csodatételek előfeltétele.
 
 Értékek:
+ --- | --- 
 0:|Karakterünknek nincs lelke. Ez igen kellemetlen. 
 1:|Meg se próbálkozzunk papi pályával.
 2:|Imáink általában süket fülekre találnak.
