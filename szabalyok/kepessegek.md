@@ -1,14 +1,5 @@
 # Képességek
 
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     
-| column     |      column |    column    
-| will       |        will |     will     
-| be         |          be |      be      
-| left       |       right |    center    
-| aligned    |     aligned |   aligned
-
 Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel bír. Ezek egy ember esetén nullától hatig terjedhetnek. Természetesen a nem emberi karaktereknek lehetnek más maximum értékeik. Az átlagos emberi képesség értéke három. A nullás képesség komoly fogyatékosságot jelent.
 
 ## A képességek:
@@ -45,7 +36,7 @@ Karakterünk technikai érzéke és kézügyessége.
 
 Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebesség is. Ha harcolni akarunk, elengedhetetlen a magas ügyesség. Egy kör alatt ekkora távolságot képes a karakter sétálva megtenni méterben.
 
-Értékek:|
+Értékek:| 
 :--| :----------------------------------------------------------------
 0:|Karakterünk mozgásképtelen, nyaktól lefelé béna.
 1:|A csiga hozzánk képest versenyló.
@@ -60,16 +51,16 @@ Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebessé
 
 Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberibb karakterünk.
 
-|Értékek:| |
-|:--| :--------------------------------------------------------|
-|0:|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
-|1:|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
-|2:|Karakterünk nem túlzottan társaságkedvelő.|
-|3:|Átlagos az emberekkel való kapcsolatunk.|
-|4:|Szeretünk beszélgetni.|
-|5:|Karakterünknek jó a meggyőző képessége.|
-|6:|Színészeket megszégyenítő módon játszunk az életben.|
-|7+:|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.|
+|Érték|Jellemzés|
+|--|--|
+|0 |Karakterünknek nincsenek érzelmei. Csak a logika irányítja.|
+|1 |Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.|
+|2 |Karakterünk nem túlzottan társaságkedvelő.|
+|3 |Átlagos az emberekkel való kapcsolatunk.|
+|4 |Szeretünk beszélgetni.|
+|5 |Karakterünknek jó a meggyőző képessége.|
+|6 |Színészeket megszégyenítő módon játszunk az életben.|
+|7+|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.|
 
 ### HIDEGVÉR (HIDV):
 
