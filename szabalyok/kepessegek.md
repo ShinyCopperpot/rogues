@@ -90,8 +90,8 @@ Problémamegoldó képesség, dolgok észrevétele, reakció, emlékezőtehetsé
 ### AURA:
 Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatához szükséges. A modern világban nincs jelentősége, hiszen lecsökkent a mágia szintje, és a mágikus képzettségeket sem tanítja senki. Fantasy környezetben viszont elengedhetetlen.
 
-Értékek:
-
+Értékek:|
+--|------------------------------------------------------------------------------------
 0:|Karakterünk mágiamentes területen nőtt föl, teljesen ki van szolgáltatva a mágiának.
 1:|A legutolsó állatnak is nagyobb tehetsége van a mágiához.
 2:|Karakterünk nem varázslónak termett.
