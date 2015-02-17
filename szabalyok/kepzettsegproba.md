@@ -91,4 +91,4 @@ Teljesen karakterünk ellen vannak azok, akiket meg akartunk győzni. Nagy esél
 A tárgy javíthatatlanul tönkremegy.
 
 **Mágia (AURA):**  
-A megpróbált varázslat szintje*K6 sebzésű mágiakitörés szint * 3m sugarú körben a varázsló körül. Ha karakterünk sikeres Mágiaellenállás próbát tesz a (varázslat szintje +1) * 5-ös nehézség ellen, a sebzésnek csak a felét szenvedi el.
+A megpróbált varázslat szintje * K6 sebzésű mágiakitörés szint * 3m sugarú körben a varázsló körül. Ha karakterünk sikeres Mágiaellenállás próbát tesz a (varázslat szintje +1) * 5-ös nehézség ellen, a sebzésnek csak a felét szenvedi el.
