@@ -1,5 +1,14 @@
 # Képességek
 
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     
+| column     |      column |    column    
+| will       |        will |     will     
+| be         |          be |      be      
+| left       |       right |    center    
+| aligned    |     aligned |   aligned
+
 Minden karakter nyolc alapvető képességgel, avagy veleszületett tehetséggel bír. Ezek egy ember esetén nullától hatig terjedhetnek. Természetesen a nem emberi karaktereknek lehetnek más maximum értékeik. Az átlagos emberi képesség értéke három. A nullás képesség komoly fogyatékosságot jelent.
 
 ## A képességek:
