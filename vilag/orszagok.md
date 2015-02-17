@@ -1,6 +1,6 @@
 #Országleírások
 
-<img src="/images/terkep.gif" alt="A RogueS világa" border="5" align="right">
+<img src="/images/terkep.gif" alt="A RogueS világa" style="border:5px solid black;" align="right">
 
 A fő kontinens, Terduuna északi és déli része élesen elkülönül egymástól. A két részt csak egy viszonylag keskeny (pár száz kilométer) széles földszoros köti össze. Az egész kontinens nyugati szélén egy magas hegylánc húzódik végig.
 
