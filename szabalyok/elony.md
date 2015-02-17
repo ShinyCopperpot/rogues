@@ -6,9 +6,9 @@ Minden előny és hátrány rendelkezik egy pontértékkel. Ezt kapjuk meg, ha f
 Egy egypontos hátrány hatása még jó szerepjátékkal kiküszöbölhető. A kétpontos hátrány már állandó nehézségeket okoz. Egy hárompontos már néha végzetessé is válhat. A négypontos hátrány pedig állandó halálos veszélyt jelent.
 
 ##Előnyök:
-Fizikai:|     |Személyiségi:|     |Szociális:|     
-:-------|:---:|:------------|:---:|:---------|:---:
- | |- Jól képzett|1-4|Engedély|1-4
+Fizikai:|     |Személyiségi:|     |Szociális:|     |
+:-------|:---:|:------------|:---:|:---------|:---:|
+ | |Jól képzett|1-4|Engedély|1-4
 Erős csontok|2|Drámai fellépés|1|Jó hírnév|1-4
 Erős gyomor|1|Éber Alvás|1|Kapcsolatok|1-4
 Éjszakai látás|1|Időérzék|1|Nemesi származás|1-4
@@ -26,9 +26,9 @@ Természetes fegyverek|1-2
 Védelmező bőr|1-2
 
 ##Hátrányok:
-Fizikai:|     |Személyiségi:|     |Pszichológiai:|     
-:-------|:---:|:------------|:---:|:-------------|:---:
-||- Képzetlenség|1-4|Emlékezetkiesés|1-2
+Fizikai:|     |Személyiségi:|     |Pszichológiai:|     |
+:-------|:---:|:------------|:---:|:-------------|:---:|
+ | |Képzetlenség|1-4|Emlékezetkiesés|1-2
 Allergia|1-3|Bosszúvágy|1-4|Feledékenység|1-3
 Betegség |1-4|Egoizmus |1|Fóbiák |1-3
 Csúnyaság |1-3|Ellensz. az állatoknak|2|Kényszeresség |1-3
@@ -47,8 +47,8 @@ Vérzékenység|4|Őszinteség|1-3
 ||Rossz szokások|1-3
 ||Szégyenlősség|1-3
 
-Szociális:|     |Felelősség:|     
-:---------|:---:|:----------|:---:
+Szociális:|     |Felelősség:|     |
+:---------|:---:|:----------|:---:|
 Ellenségek|2-4|Átok|2-4
 Hátrányos helyzet|1-4|Becsületkódex|1-3
 Hírnév|1-3|Eskü|1-3
