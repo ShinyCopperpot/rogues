@@ -1,53 +1,57 @@
 # Tartalomjegyzék
 
+## Szabálykönyv
+
 [Képességek](szabalyok/kepessegek.md)
 
 [Hírnév](szabalyok/hirnev.md)
 
-[Ép elme]()
+[Ép elme](szabalyok/epelme.md)
 
-[Előnyök és hátrányok]()
+[Előnyök és hátrányok](szabalyok/elony.md)
 
-[A képzettségpróba]()
+[A képzettségpróba](szabalyok/kepzettsegproba.md)
 
-[A képzettségek listája]()
+[A képzettségek listája](szabalyok/kepzettsegek.md)
 
-[Képzettségek tanulása, fejlődés]()
+[Képzettségek tanulása, fejlődés](szabalyok/tanulas.md)
 
-[Induló karakterek]()
+[Induló karakterek](szabalyok/indulo.md)
 
-[Fegyverek táblázata]()
+[Fegyverek táblázata](szabalyok/fegyverek.md)
 
-[Vértek táblázata]()
+[Vértek táblázata](szabalyok/vertek.md)
 
-[Körök, kezdeményezés]()
+[Körök, kezdeményezés](szabalyok/korok.md)
 
-[Támadás és védekezés]()
+[Támadás és védekezés](szabalyok/tamadas.md)
 
-[Találat helye, sebzés, páncél]()
+[Találat helye, sebzés, páncél](szabalyok/talalat.md)
 
-[Sebek, mentődobások]()
+[Sebek, mentődobások](szabalyok/sebek.md)
 
-[Gyógyítás, gyógyfüvek és mágia]()
+[Gyógyítás, gyógyfüvek és mágia](szabalyok/gyogyitas.md)
 
-[Mérgek]()
+[Mérgek](szabalyok/mergek.md)
 
-[A papi csodatételek]()
+[A papi csodatételek](szabalyok/csodatetelek.md)
 
-[A papok hatalma a hívők függvényében]()
+[A papok hatalma a hívők függvényében](szabalyok/papokhatalma.md)
 
-[A mágia alapjai]()
+[A mágia alapjai](szabalyok/magiaalapjai.md)
 
-[A varázslás szabályai]()
+[A varázslás szabályai](szabalyok/varazslas.md)
 
-[Gyakorlati példák varázslatokra a RogueS rendszerében]()
+[Gyakorlati példák varázslatokra a RogueS rendszerében](szabalyok/gyakorlati.md)
 
-[A jelmágia]()
+[A jelmágia](szabalyok/jelmagia.md)
 
-[Elfogy a mágia]()
+[Elfogy a mágia](szabalyok/elfogy.md)
 
-[Országleírások]()
+## Világleírás
 
-[A Dzsa'reb Királyság]()
+[Országleírások](vilag/orszagok.md)
 
-[A Barbárok]()
+[A Dzsa'reb Királyság](vilag/dzsareb.md)
+
+[A Barbárok](vilag/barbarok.md)
