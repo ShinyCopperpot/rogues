@@ -39,14 +39,14 @@ Nem csak egyszerűen ügyesség, de a mozgáskoordináció és mozgási sebessé
 
 Érték|Jellemzés
 :----|:--------
-0|Karakterünk mozgásképtelen, nyaktól lefelé béna.
-1|A csiga hozzánk képest versenyló.
-2|Karakterünk nehezen bukfencezik, kissé lomha.
-3|Átlagos ügyesség.
-4|Gyorsabbak vagyunk az átlagnál.
-5|Könnyedén szaltózunk, gyorsan futunk.
-6|Karakterünk kötéltáncosnak termett.
-7+|Ilyen kecses mozgással csak a vadászó nagyvadak mozognak.
+0    |Karakterünk mozgásképtelen, nyaktól lefelé béna.
+1    |A csiga hozzánk képest versenyló.
+2    |Karakterünk nehezen bukfencezik, kissé lomha.
+3    |Átlagos ügyesség.
+4    |Gyorsabbak vagyunk az átlagnál.
+5    |Könnyedén szaltózunk, gyorsan futunk.
+6    |Karakterünk kötéltáncosnak termett.
+7+   |Ilyen kecses mozgással csak a vadászó nagyvadak mozognak.
 
 ### EMPÁTIA (EMP):
 
@@ -54,14 +54,14 @@ Beleélés, együttérzés, és beszédkészség. Minél magasabb, annál emberi
 
 Érték|Jellemzés
 :----|:--------
-0|Karakterünknek nincsenek érzelmei. Csak a logika irányítja.
-1|Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.
-2|Karakterünk nem túlzottan társaságkedvelő.
-3|Átlagos az emberekkel való kapcsolatunk.
-4|Szeretünk beszélgetni.
-5|Karakterünknek jó a meggyőző képessége.
-6|Színészeket megszégyenítő módon játszunk az életben.
-7+|Egyszerű ember fel sem tudja fogni érzelmeink mélységét.
+0    |Karakterünknek nincsenek érzelmei. Csak a logika irányítja.
+1    |Nagyon kevés érzelmünk van, az is főleg csak gyűlölet.
+2    |Karakterünk nem túlzottan társaságkedvelő.
+3    |Átlagos az emberekkel való kapcsolatunk.
+4    |Szeretünk beszélgetni.
+5    |Karakterünknek jó a meggyőző képessége.
+6    |Színészeket megszégyenítő módon játszunk az életben.
+7+   |Egyszerű ember fel sem tudja fogni érzelmeink mélységét.
 
 ### HIDEGVÉR (HIDV):
 
@@ -69,14 +69,14 @@ Ez a jellemző azt is megmutatja, hogy karakterünk mennyire bírja a stresszt, 
 
 Érték|Jellemzés
 :----|:--------
-0:|Karakterünk a hirtelen zajoktól sokkot kap.
-1:|Gyávaságunkról híresek vagyunk.
-2:|Karakterünk ijedősebb az átlagnál.
-3:|Átlagos a hidegvérünk.
-4:|Bátrabbak vagyunk az átlagnál.
-5:|Karakterünk igazán nyakas.
-6:|Szemébe nevetünk a halálnak.
-7+:|Nem ijeszt meg semmi, nevetve álljuk a kínvallatást.
+0    |Karakterünk a hirtelen zajoktól sokkot kap.
+1    |Gyávaságunkról híresek vagyunk.
+2    |Karakterünk ijedősebb az átlagnál.
+3    |Átlagos a hidegvérünk.
+4    |Bátrabbak vagyunk az átlagnál.
+5    |Karakterünk igazán nyakas.
+6    |Szemébe nevetünk a halálnak.
+7+   |Nem ijeszt meg semmi, nevetve álljuk a kínvallatást.
 
 ### INTELLIGENCIA (INT):
 
@@ -84,28 +84,28 @@ Problémamegoldó képesség, dolgok észrevétele, reakció, emlékezőtehetsé
 
 Érték|Jellemzés
 :----|:--------
-0:|Karakterünk agyatlan zombi, csak vegetálni képes.
-1:|Némelyik kutya okosabb nálunk.
-2:|Karakterünk lassú felfogású.
-3:|Átlagos eszünk van.
-4:|Okosabbak vagyunk az átlagnál.
-5:|Ravaszak vagyunk, mint a róka.
-6:|Karakterünk egy zseni.
-7+:|Felülről tekintünk az összes emberre.
+0    |Karakterünk agyatlan zombi, csak vegetálni képes.
+1    |Némelyik kutya okosabb nálunk.
+2    |Karakterünk lassú felfogású.
+3    |Átlagos eszünk van.
+4    |Okosabbak vagyunk az átlagnál.
+5    |Ravaszak vagyunk, mint a róka.
+6    |Karakterünk egy zseni.
+7+   |Felülről tekintünk az összes emberre.
 
 ### AURA:
 Karakterünk fogékonysága a mágiára. Az mágikus képzettségek használatához szükséges. A modern világban nincs jelentősége, hiszen lecsökkent a mágia szintje, és a mágikus képzettségeket sem tanítja senki. Fantasy környezetben viszont elengedhetetlen.
 
 Érték|Jellemzés
 :----|:--------
-0:|Karakterünk mágiamentes területen nőtt föl, teljesen ki van szolgáltatva a mágiának.
-1:|A legutolsó állatnak is nagyobb tehetsége van a mágiához.
-2:|Karakterünk nem varázslónak termett.
-3:|Átlagos a mágikus tehetségünk.
-4:|Mágiában kicsit tehetségesebbek vagyunk az átlagnál.
-5:|Karakterünkből jó varázsló válna.
-6:|Megfelelő képzéssel a legnagyobb varázslók vagy főpapok közé is emelkedhetünk.
-7+:|Karakterünknek már a megjelenése is mágiát sugároz. Érezhető aurája van.
+0    |Karakterünk mágiamentes területen nőtt föl, teljesen ki van szolgáltatva a mágiának.
+1    |A legutolsó állatnak is nagyobb tehetsége van a mágiához.
+2    |Karakterünk nem varázslónak termett.
+3    |Átlagos a mágikus tehetségünk.
+4    |Mágiában kicsit tehetségesebbek vagyunk az átlagnál.
+5    |Karakterünkből jó varázsló válna.
+6    |Megfelelő képzéssel a legnagyobb varázslók vagy főpapok közé is emelkedhetünk.
+7+   |Karakterünknek már a megjelenése is mágiát sugároz. Érezhető aurája van.
 
 ### LÉLEK (HIT):
 
@@ -113,14 +113,14 @@ Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A pa
 
 Érték|Jellemzés
 :----|:--------
-0:|Karakterünknek nincs lelke. Ez igen kellemetlen. 
-1:|Meg se próbálkozzunk papi pályával.
-2:|Imáink általában süket fülekre találnak.
-3:|Átlagos hívők vagyunk.
-4:|Karakterünk lelke emelkedettebb az átlagnál.
-5:|Karakterünkből jó pap válna.
-6:|Akár főpap is válhat belőlünk, ha nem sajnáljuk az időt a tanulásra.
-7+:|Karakterünkből süt a hitének esszenciája, legyen az jó vagy akár gonosz.
+0    |Karakterünknek nincs lelke. Ez igen kellemetlen. 
+1    |Meg se próbálkozzunk papi pályával.
+2    |Imáink általában süket fülekre találnak.
+3    |Átlagos hívők vagyunk.
+4    |Karakterünk lelke emelkedettebb az átlagnál.
+5    |Karakterünkből jó pap válna.
+6    |Akár főpap is válhat belőlünk, ha nem sajnáljuk az időt a tanulásra.
+7+   |Karakterünkből süt a hitének esszenciája, legyen az jó vagy akár gonosz.
 
 ### SZERENCSE (MÁK):
 
@@ -128,14 +128,15 @@ Ez az, amire mindenkinek szüksége van. Karakterünk számára fontos eseménye
 
 Érték|Jellemzés
 :----|:--------
-0:|Karakterünknek a véletlen sosem kedvez. Állandó életveszélyben vagyunk.
-1:|Semmi sem úgy sül el, ahogy számítanánk rá.
-2:|Karakterünk életében gyakran közbejön valami bosszantó apróság.
-3:|Átlagos szerencsénk van.
-4:|Kicsit szerencsésebbek vagyunk az átlagnál.
-5:|Karakterünk dolgai általában jobban sikerülnek a vártnál.
-6:|Minden cselekedetünk jól sül el.
-7+:|A sors kegyeltjei vagyunk, egyszerűen sosem veszíthetünk.
+0    |Karakterünknek a véletlen sosem kedvez. Állandó életveszélyben vagyunk.
+1    |Semmi sem úgy sül el, ahogy számítanánk rá.
+2    |Karakterünk életében gyakran közbejön valami bosszantó apróság.
+3    |Átlagos szerencsénk van.
+4    |Kicsit szerencsésebbek vagyunk az átlagnál.
+5    |Karakterünk dolgai általában jobban sikerülnek a vártnál.
+6    |Minden cselekedetünk jól sül el.
+7+   |A sors kegyeltjei vagyunk, egyszerűen sosem veszíthetünk.
+
 A mesélőnek: Tartsuk szemmel a karakterek szerencséjét, és e szerint meséljünk nekik. Egy ellenséges támadó mindig a legpechesebb karaktert szemeli ki elsőnek.
 
 ## Járulékos (számított) jellemzők:</b>
