@@ -10,28 +10,28 @@ Erő, állóképesség és egészség. Megmutatja, hogy karakterünk mennyi sebe
 
 Érték|Jellemzés
 :----|:--------
-0:   |Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
-1:   |Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
-2:   |Karakterünk kissé beteges, gyenge alkat.
-3:   |Átlagos testalkat.
-4:   |Izmosabbak és szívósabbak vagyunk az átlagnál.
-5:   |Karakterünk most már sok mindent kibír.
-6:   |Szervezetünk mint a vas, izmaink akár egy súlyemelőé.
-7+:  |Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.
+0    |Karakterünk életképtelen, állandó mágikus segítséggel maradhat csak életben.
+1    |Olyan gyengék vagyunk, hogy elfúj a legkisebb szellő.
+2    |Karakterünk kissé beteges, gyenge alkat.
+3    |Átlagos testalkat.
+4    |Izmosabbak és szívósabbak vagyunk az átlagnál.
+5    |Karakterünk most már sok mindent kibír.
+6    |Szervezetünk mint a vas, izmaink akár egy súlyemelőé.
+7+   |Ilyen hatalmas, elpusztíthatatlan hősök csak a legendákban szerepelnek.
 
 ### KÉZÜGYESSÉG (KÉZ):
 Karakterünk technikai érzéke és kézügyessége.
 
 Érték|Jellemzés
 :----|:--------
-0: | Karakterünk keze hiányzik, vagy megbénult.
-1: | Éles tárgyat még véletlenül se vegyünk a kezünkbe.
-2: | Karakterünk keze durva az aprólékos munkákhoz.
-3: | Átlagos kézügyesség.
-4: | Tehetségesebbek vagyunk az átlagnál.
-5: | Karakterünk szépen rajzolt már gyermekkorában is.
-6: | Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.
-7+:| Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.
+0    | Karakterünk keze hiányzik, vagy megbénult.
+1    | Éles tárgyat még véletlenül se vegyünk a kezünkbe.
+2    | Karakterünk keze durva az aprólékos munkákhoz.
+3    | Átlagos kézügyesség.
+4    | Tehetségesebbek vagyunk az átlagnál.
+5    | Karakterünk szépen rajzolt már gyermekkorában is.
+6    | Megfelelő képzéssel a legnagyobb művészek közé is emelkedhetünk.
+7+   | Az egyszerű emberek mágiának gondolnák karakterünk cselekedeteit.
 
 ### ÜGYESSÉG (ÜGY):
 
@@ -158,17 +158,17 @@ Aki erősebb, az kézifegyverrel nagyobbat sebez. A karakterünk által okozott 
 
 Erőnlét|Sebzés plusz
 :------|:-----------
-0|Nincs sebzés
-1|-1
-2 - 4|0
-5|1
-6|2
-7|3
-8|4
-9|5
-10|6
-11|7
-12|8
+0      |Nincs sebzés
+1      |-1
+2 - 4  |0
+5      |1
+6      |2
+7      |3
+8      |4
+9      |5
+10     |6
+11     |7
+12     |8
 13 - 14|9
 15 - 17|10
 18 - 20|11
