@@ -7,13 +7,13 @@ Minden cselekedet nehézsége besorolható a gyerekjáték és a lehetetlen köz
 
 Nehézség|Érték
 :-------|----:
-Gyerekjáték:|6
-Könnyű:|10
-Közepes:|14
-Nehéz:|18
-Nagyon nehéz:|24
-Közel lehetetlen:|30
-Lehetetlen:|36
+Gyerekjáték|6
+Könnyű|10
+Közepes|14
+Nehéz|18
+Nagyon nehéz|24
+Közel lehetetlen|30
+Lehetetlen|36
 
 ##A próba
 Ha képzettségpróbát teszünk, először is meghatározzuk, hogy melyik alapképesség szükséges a képzettséghez (lásd képzettségek táblázata).  Ehhez hozzáadjuk a képzettség értékét (ha van). Végül dobunk két hatoldalú kockával, hozzáadjuk az összeghez. A végeredményt összehasonlítjuk a nehézséggel. Ha az összeg nagyobb vagy egyenlő, mint a nehézség, a próba sikerült, ha kisebb, akkor sikertelen lett.
@@ -31,7 +31,7 @@ Viszont, ha a mesélő úgy látja, hogy a próbára képzetlenül is van esély
 ##Ellenpróbák
 Ha karakterünk egy másik ellen akarja használni egy képzettségét, a támadó próbát dob, a védekező pedig a védő képzettségéhez hozzáad nyolcat. Ez lesz a támadó nehézsége. Védekezőnek minősül: Harcban, akit támadnak, lopakodásnál az észlelő. Alapesetben a játékos. (Inkább a mesélő dobjon.) 
 
-###Opcionális szabály
+**Opcionális szabály:**
 A védekező is dobhat, az ő dobását kell összehasonlítani a támadóéval. Ilyenkor egyenlő vagy magasabb érték esetén a védekező nyer. Kivételes sikert csak kivételes sikerrel lehet kivédeni. Ez a megoldás több esélyt ad a szerencsének, de lassítja a játékot.
 
 ##Kiegészítő képzettségek használata
@@ -47,7 +47,7 @@ A kiegészítő képzettségpróba nehézsége|Szint (Opcionális)|Bonusz a pró
 30|12-13|+6
 36|14+|+7
 
-###Opcionális szabály
+**Opcionális szabály:**
 Ha nem akarunk az ilyen képzettségpróbák során kétszer dobni, egyszerűen adjuk hozzá a dobáshoz a kiegészítő képzettség szintjéből származó bonuszt.
 
 ##Szerencse
