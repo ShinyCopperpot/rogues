@@ -1,9 +1,9 @@
 # Találat helye, sebzés, páncél
 
-## A találat helye:
+## A találat helye
 Miután sikeresen eltaláltuk ellenfelünket, meg kell határoznunk, hogy tulajdonképpen melyik testrészét is sikerült eltalálni. Ha meghatározott testrészére céloztunk (levonásokkal megtehetjük), akkor semmi dolgunk, az ütés oda ment, ahová akartuk. Azonban a legtöbb harci támadás épphogy csak célzott, meglátunk egy rést az ellenfél védelmében, és már le is csapunk rá. Ilyen esetekben a találat helyét véletlenszerűen határozzuk meg. A helyek táblázatát a karakterlapon is megtalálhatjuk. Kettőtől tizenkettőig láthatunk számokat a testrészek alá írva. Ha valakit eltaláltunk, dobjunk két hatoldalú kockával. Az eredményként kijött számot a testrészek alatt lévőkkel összevetve határozhatjuk meg a találat helyét.
 
-## A sebzés:
+## A sebzés
 Minden fegyver leírásában szerepel az alap sebzése. Ehhez kézifegyvereknél még hozzáadhatjuk karakterünk sebzés pluszát is.
 
 Ha karakterünk meglepetésből támad, az a harc első körében a fegyvere lehetséges maximumát sebzi minden olyan ellenfelén, aki nem vette észre őt, vagy támadó szándékát.
@@ -48,7 +48,7 @@ A próba nehézsége|Szint (Opc.)|MGT csökkenés
 30|12-13|- 6
 36|14+|- 7
 
-A fedezékek SFÉ értékeit mutatja meg a következő táblázat:
+### A fedezékek SFÉ értékeit mutatja meg a következő táblázat:
 
 Fedezék|SFÉ
 :-----:|:---:
