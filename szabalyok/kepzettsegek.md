@@ -197,17 +197,17 @@ A környék, az ország, a világ történelmének, legendáinak ismerete.
 ### Vakharc (2):
 Alacsony fokon hangok, légmozgások segítségével határozhatja meg ellenfele helyzetét a vakharcos. Magasabb fokon már megérzések vezérlik mozdulatait.
 
-A próba nehézsége|Szint (Opcionális)||Félhomályban||Sötétben||Vakon
-:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:
-| |TÉ|VÉ|TÉ|VÉ|TÉ|VÉ
-Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat
-6|1-3|- 1|- 1|- 3|- 3 |Nem harcolhat
-10|4-5|- 1|- 1|- 2|- 2|- 4|- 4
-14|6-7|-|-|- 1|- 1|- 2|- 2
-18|8-9|-|+ 1|-|-|- 1|- 1
-24|10-11|-|+ 2|-|+ 1|-|-
-30|12-13|-|+ 3|-|+ 2|-|+ 1
-36|14+|-|+ 4|-|+ 3|-|+ 2
+|A próba nehézsége|Szint (Opcionális)||Félhomályban||Sötétben||Vakon
+|:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:
+|| |TÉ|VÉ|TÉ|VÉ|TÉ|VÉ
+|Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat
+|6|1-3|- 1|- 1|- 3|- 3 |Nem harcolhat
+|10|4-5|- 1|- 1|- 2|- 2|- 4|- 4
+|14|6-7|-|-|- 1|- 1|- 2|- 2
+|18|8-9|-|+ 1|-|-|- 1|- 1
+|24|10-11|-|+ 2|-|+ 1|-|-
+|30|12-13|-|+ 3|-|+ 2|-|+ 1
+|36|14+|-|+ 4|-|+ 3|-|+ 2
 
 ### Vallásismeret:
 A vallások, tanok, hitviták ismerete.
@@ -295,22 +295,22 @@ Az papi csodatételekhez zükséges képzettség. Tanulási nehézsége függ a 
 ### Harci stílusok:
 A fegyverek forgatásuk módja szerint különféle csoportokra osztatók. Az egyes csoportok forgatásához külön-külön képzettségekre van szükség.
 
-- **Pusztakezes Harc:**
+- **Pusztakezes Harc:**  
 Az emberi test, vagy a nehezebb ruhadarabok (csizma, páncél) fegyverként való használata. Ide tartozik a bokszer is.
 
-- **Közelharc:**
+- **Közelharc:**  
  Ebbe a csoportba a rövid pengés fegyverek számítanak. Forgatóik közvetlen közelről tudnak csak igazán hatékonyan támadni ezekkel. Szűk helyen ideális fegyverek.
 
-- **Kardvívás:**
+- **Kardvívás:**  
 Ide tartoznak a hosszabb pengével rendelkező fegyverek. Használatukhoz inkább technika szükséges mintsem nyers erő.
 
-- **Pusztítás:**
+- **Pusztítás:**  
 Az ide tartozó fegyverek a súlyukkal és elsöprő lendületükkel támadnak. Ilyenek a csatabárdok, buzogányok és a nehéz pengés fegyverek.
 
-- **Lándzsavívás:**
+- **Lándzsavívás:**  
 Ebbe a kategóriába a hosszabb nyéllel rendelkező szúró- illetve vágófegyverek számítanak, forgatásukhoz sok mozgás szükséges.
 
-- **Hajítás:**
+- **Hajítás:**  
 Minden fegyver lehet hajítani ezzel a képzettséggel. A hatékony táv csupán karakterünk erejének és a tárgy súlyának függvénye.  
 Táv = ( Erő * 10 ) / ( Súly + 0.5 ) m
 
