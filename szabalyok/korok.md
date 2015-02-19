@@ -3,7 +3,7 @@
 ## A harc előtt:
 A harc előtt kell meghatároznunk karakterünk kiegészítő harci képzettségeinek hatását. A vértviselet, a vakharc, az akrobatika, a kétkezesség, és a pajzshasználat képzettségekről van szó. Az ezek közül használni kívánt képzettségekre minden harc előtt képzettségpróbát kell tennünk. A képzettségek leírásánál található táblázatból meghatározhatjuk a kapott harci módosítók értékét. Ha a próbánk rosszul sikerült, harc közben egy körre megállva összeszedhetjük magunkat. Ilyenkor újradobhatjuk azt a próbát, amelyiket akarjuk.
 
-## Opcionális szabály: Harc előtt nem bobunk a kiegészítő képzettségekre, hanem a leírásnál meghatározott, szinttől függő fix harci módosítót nyújtják mindig. Ez gyorsítja a játékot.
+**Opcionális szabály:** Harc előtt nem bobunk a kiegészítő képzettségekre, hanem a leírásnál meghatározott, szinttől függő fix harci módosítót nyújtják mindig. Ez gyorsítja a játékot.
 
 A harcban töltött időt körökre bontjuk. Egy kör 3,33 másodpercnyi időt ölel fel. Ez alatt minden karakternek joga van tenni valamit. A cselekvések elsőbbségét befolyásolja a kezdeményezés. A kezdeményezés egy képzettségpróba, amit a harc összes szereplője megtesz a kör elején. A próba így zajlik:
 
