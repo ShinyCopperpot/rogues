@@ -7,7 +7,7 @@ Egy képzettség első fokának megtanulása két fejlődési pontba kerül, azo
 Egy képzettség eggyel magasabb fokra emeléséhez annyi fejlődési pontra van szükség, amekkora fokú a képzettségünk. Pl.: Egy egyszeres nehézségi szorzós képzettséget ötödik fokáról a hatodikra növelni öt fejlődési pontba kerül.
 
 ## Fejlődési táblázat
-Képzettségi fok|Az eléréséhez szükséges fejlődési pontok összege (a nulláról)|Tudáskategória
+Képzettségi fok|Az eléréséhez szükséges fejlődési <br> pontok összege (a nulláról)|Tudáskategória
 --------------:|------------------------------------------------------------:|--------------
 1|2|Inas
 2|3|
@@ -22,8 +22,8 @@ Képzettségi fok|Az eléréséhez szükséges fejlődési pontok összege (a nu
 11|57|
 12|68|Legendás
 13|80|Emberfeletti
-14|93|Félisteni
-15|107|Titáni
+14|93|Transzcendens
+15|107|Félisteni
 16|122|Isteni
 
 ## Nehézségi szorzó:
