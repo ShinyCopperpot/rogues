@@ -197,17 +197,17 @@ A környék, az ország, a világ történelmének, legendáinak ismerete.
 ### Vakharc (2):
 Alacsony fokon hangok, légmozgások segítségével határozhatja meg ellenfele helyzetét a vakharcos. Magasabb fokon már megérzések vezérlik mozdulatait.
 
-|A próba nehézsége|Szint (Opcionális)||Félhomályban||Sötétben||Vakon
-|:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:
-|| |TÉ|VÉ|TÉ|VÉ|TÉ|VÉ
-|Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat
-|6|1-3|- 1|- 1|- 3|- 3 |Nem harcolhat
-|10|4-5|- 1|- 1|- 2|- 2|- 4|- 4
-|14|6-7|-|-|- 1|- 1|- 2|- 2
-|18|8-9|-|+ 1|-|-|- 1|- 1
-|24|10-11|-|+ 2|-|+ 1|-|-
-|30|12-13|-|+ 3|-|+ 2|-|+ 1
-|36|14+|-|+ 4|-|+ 3|-|+ 2
+|A próba nehézsége|Szint (Opcionális)|Félhomályban| |Sötétben| |Vakon| |
+|:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|                 |                  |TÉ   |VÉ   |TÉ   |VÉ   |TÉ   |VÉ   |
+|Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat|
+|6|1-3|- 1|- 1|- 3|- 3 |Nem harcolhat|
+|10|4-5|- 1|- 1|- 2|- 2|- 4|- 4|
+|14|6-7|-|-|- 1|- 1|- 2|- 2|
+|18|8-9|-|+ 1|-|-|- 1|- 1|
+|24|10-11|-|+ 2|-|+ 1|-|-|
+|30|12-13|-|+ 3|-|+ 2|-|+ 1|
+|36|14+|-|+ 4|-|+ 3|-|+ 2|
 
 ### Vallásismeret:
 A vallások, tanok, hitviták ismerete.
