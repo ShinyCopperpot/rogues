@@ -28,7 +28,7 @@ Buzogány, Tollas|+1|+1|-1|2K6 PT|2|11E
 Buzogány, Láncos|+1|0|-2|2K6+4 Z|2|12E
 Csatabárd, Egykezes|+1|+1|-1|2K6+2 V|2|6E
 Csatabárd, Kétkezes|+2|-1|-3|2K6+7 V|5|2A
-Csatacsákány|+1|+1|-2|2K6+2 PT|2.5|8E
+Csatacsákány|+1|+1|-2|2K6 PT|2.5|8E
 Furkósbot|0|+1|-1|1K6 Z|1.5|-
 Harci Kalapács|+2|-1|-3|2K6+7 Z|5|1A
 Korbács|+1|0|-2|1K6|0.5|12R
