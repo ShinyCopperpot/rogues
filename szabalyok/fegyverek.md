@@ -1,7 +1,7 @@
 # Fegyverek táblázata
 
-Név|Kezd.|Támadó|Védő|Sebzés|Súly|Ár|
----|:---:|:----:|:--:|:----:|---:|-:|
+Név|Kezd.|Támadó|Védő|Sebzés|Súly|Ár
+---|:---:|:----:|:--:|:----:|---:|---:
 **PUSZTA KEZES**| | | | | | 
 Ökölcsapás|0|0|0|1K6/2|-|-
 Rúgás|0|0|0|1K6|-|-
@@ -46,7 +46,11 @@ Háló|0|-2|+1|-|1|3E
 Lasszó|0|-1|-|-|0.5|8R
 Parittya|0|-1|-|1K6 Z|0.3|3R
 
-A V betűvel jelölt fegyverek vágófegyvernek számítanak, a lágy páncélok csak fele SFÉ-jükkel számítanak ellenük. A Z (zúzó) fegyverek ellen a hajlékony fémvértek nem védenek, ezért az ilyen páncél csak a fele SFÉ-jét nyújtja ellenük. A PT (páncéltörő) fegyverek olyan céllal készültek, hogy átdöfjék a páncélokat, ellenük minden páncél csak a fele SFÉ-jét nyújtja. 
+A V betűvel jelölt fegyverek vágófegyvernek számítanak, a lágy páncélok csak fele SFÉ-jükkel számítanak ellenük.
+
+A Z (zúzó) fegyverek ellen a hajlékony fémvértek nem védenek, ezért az ilyen páncél csak a fele SFÉ-jét nyújtja ellenük.
+
+A PT (páncéltörő) fegyverek olyan céllal készültek, hogy átdöfjék a páncélokat, ellenük minden páncél csak a fele SFÉ-jét nyújtja. 
 
 ## CÉLZÓFEGYVEREK
 
@@ -76,5 +80,6 @@ Hagyományos: Ez a rendes szabály szerint sebez.
 Páncéltörő: Ez ellen a páncél SFÉ értékének csak a fele számít, viszont az átjutott sebzés feleződik.
 
 ### Minden fegyvert hajíthatunk, a teljes táv:
-**( ERŐNLÉT * 10 ) / ( Súly + 0.5 ) m**  
+**( ERŐNLÉT * 10 ) / ( Súly + 0.5 ) m**
+
 Az 1 kg-nál könnyebb nem hajítófegyverek (szöges bokszer, borotva, garott) elhajítva legfeljebb egy pontnyi sebzést okozhatnak, távjuk pedig megegyezik az 1 kg-os fegyverekével.
