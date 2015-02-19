@@ -41,6 +41,7 @@ Karakterünk pajzsával megpróbálhatja a betalált támadások sebzését felf
 ## Harci módosítók táblázata
 
 Mindenféle támadásra érvényes módosítók:
+
 Helyzet|Módosító
 :-----:|:------:
 Álló célpont|+ 3 támadás
@@ -52,6 +53,7 @@ Nagy célpont (ló méretű)|+ 3 támadás
 Óriási célpont (ház méretű)|+ 6 támadás
 
 Csak közelharci támadásokra érvényes módosítók:
+
 Helyzet|Módosító
 :-----:|:------:
 Félreugró célpont|- 2 támadás
@@ -63,25 +65,28 @@ Nem az első támadás a célpontra|+2 módosító az első támadás utáni min
 * Kivéve, ha a célpont két fegyverrel vagy pajzzsal harcol, ilyenkor csak a második támadás után jönnek a bonuszok a támadóknak.
 
 Csak távolsági fegyverrel végzett támadásokra érvényes módosítók:
+
 Helyzet|Módosító
 :-----:|:------:
 Célzás|+ 1 támadás minden célzással eltöltött kör után (max. 3)
 Lövés futás közben|- 3 támadás
 
 A sötétségre és a vakharcra vonatkozó támadási és védekezési módosítók:
-|A próba nehézsége|Szint (Opcionális)|Félhomályban||Sötétben||Vakon||
-|:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
-||                                   |TÉ   |VÉ   |TÉ   |VÉ   |TÉ   |VÉ   |
-|Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat||
-|6|1-3|- 1|- 1|- 3|- 3|Nem harcolhat||
-|10|4-5|- 1|- 1|- 2|- 2|- 4|- 4|
-|14|6-7|-|-|- 1|- 1|- 2|- 2|
-|18|8-9|-|+ 1|-|-|- 1|- 1|
-|24|10-11|-|+ 2|-|+ 1|-|-|
-|30|12-13|-|+ 3|-|+ 2|-|+ 1|
-|36|14+|-|+ 4|-|+ 3|-|+ 2|
+
+A próba nehézsége|Szint (Opcionális)|Félhomályban||Sötétben||Vakon||
+:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
+ |                                  |TÉ   |VÉ   |TÉ   |VÉ   |TÉ   |VÉ   |
+Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat||
+6|1-3|- 1|- 1|- 3|- 3|Nem harcolhat||
+10|4-5|- 1|- 1|- 2|- 2|- 4|- 4|
+14|6-7|-|-|- 1|- 1|- 2|- 2|
+18|8-9|-|+ 1|-|-|- 1|- 1|
+24|10-11|-|+ 2|-|+ 1|-|-|
+30|12-13|-|+ 3|-|+ 2|-|+ 1|
+36|14+|-|+ 4|-|+ 3|-|+ 2|
 
 A kétkezes harcra vonatkozó módosítók:
+
 A próba nehézsége|Szint (Opc.)|TÉ levonás a jobbik kézre|TÉ levonás a rosszabb kézre|VÉ módosító
 :---------------:|:----------:|:-----------------------:|:-------------------------:|:---------:
 Képzetlen|-|- 3|- 3|- 3
