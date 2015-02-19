@@ -1,7 +1,7 @@
 # Fegyverek táblázata
 
-Név|Kezd.|Támadó|Védő|Sebzés|Súly|Ár
----|:---:|:----:|:--:|:----:|---:|-:
+Név|Kezd.|Támadó|Védő|Sebzés|Súly|Ár|
+---|:---:|:----:|:--:|:----:|---:|-:|
 **PUSZTA KEZES**| | | | | | 
 Ökölcsapás|0|0|0|1K6/2|-|-
 Rúgás|0|0|0|1K6|-|-
@@ -51,7 +51,7 @@ A V betűvel jelölt fegyverek vágófegyvernek számítanak, a lágy páncélok
 ## CÉLZÓFEGYVEREK
 
 Név|Kezd.|Támadó|Sebzés|Lövés|Táv|Súly|Ár
----|:---:|:----:|:----:|:---:|--:|----|-:
+---|:---:|:----:|:----:|:---:|---:|----|---:
 Íj, Rövid|+4|+1|2K6|1 / 2|50m|0.6|3A
 Íj, Hosszú|+4|+1|2K6+4|1 / 2|100m|0.8|4A
 Nyílpuska, Kézi|+6|-1|2K6|1 / 2|20m|3|20A
