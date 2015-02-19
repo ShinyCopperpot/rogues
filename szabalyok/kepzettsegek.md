@@ -197,11 +197,11 @@ A környék, az ország, a világ történelmének, legendáinak ismerete.
 ### Vakharc (2):
 Alacsony fokon hangok, légmozgások segítségével határozhatja meg ellenfele helyzetét a vakharcos. Magasabb fokon már megérzések vezérlik mozdulatait.
 
-|A próba nehézsége|Szint (Opcionális)||Félhomályban||Sötétben||Vakon|
+|A próba nehézsége|Szint (Opcionális)|Félhomályban||Sötétben||Vakon||
 |:---------------:|:----------------:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||                                   |TÉ   |VÉ   |TÉ   |VÉ   |TÉ   |VÉ   |
-|Képzetlen|-|- 2|- 2|- 4|- 4||Nem harcolhat|
-|6|1-3|- 1|- 1|- 3|- 3||Nem harcolhat|
+|Képzetlen|-|- 2|- 2|- 4|- 4|Nem harcolhat||
+|6|1-3|- 1|- 1|- 3|- 3|Nem harcolhat||
 |10|4-5|- 1|- 1|- 2|- 2|- 4|- 4|
 |14|6-7|-|-|- 1|- 1|- 2|- 2|
 |18|8-9|-|+ 1|-|-|- 1|- 1|
@@ -312,7 +312,7 @@ Ebbe a kategóriába a hosszabb nyéllel rendelkező szúró- illetve vágófegy
 
 - **Hajítás:**  
 Minden fegyver lehet hajítani ezzel a képzettséggel. A hatékony táv csupán karakterünk erejének és a tárgy súlyának függvénye.  
-Táv = ( Erő * 10 ) / ( Súly + 0.5 ) m
+**Táv = ( Erő * 10 ) / ( Súly + 0.5 ) m**
 
 - **Íjászat:**
 Minden emberi erővel feszített lőfegyver használata.
