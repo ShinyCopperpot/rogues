@@ -1,4 +1,4 @@
-<img src="/kepek/rs.gif" alt="RogueS"  align="right">
+<img src="/kepek/rs.gif" alt="RogueS"  align="center">
 
 # RogueS szerepjáték
 
