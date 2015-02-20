@@ -6,34 +6,34 @@ A RogueS alapvetõen az Elda Birodalomra épített játék, így a Birodalom szemszögé
 
 ### A Barbár vidékek térképe
 
-<img src="kepek/barbarok.jpg" alt="A Barbár vidékek térképe"  align="right">
-1. Jeges Vizek törzs
-2. Véres Kéz törzs
-3. Üvöltõ Szelek törzs
-4. A Szent Hely Védõi törzs
-5. Vérszomjasak törzs
-6. Fekete Medve törzs
-7. Földanya törzs
-8. Vizek Lovasa törzs
-9. Vasöklök törzs
-10. Mourmonn törzs
-11. Sólyomasszony törzs
-12. Fekete Vipera törzs
-13. Erdõ Szelleme törzs
-14. Figyelõk törzs
-15. Határvárad
-16. Füvesvár
-17. Tengerfokvárad
-18. Dombkapu
-19. Harmatvár
-20. Gyöngyvárad
-21. Kövesvárad
-22. Szürkevár
-23. Vízvárad
-24. Lazacpart
-25. Sziklavár
-26. Magosvár
-27. Nomádok (Dzsa'reb szökött szolgák, pásztorok, bujdosók) és kisebb városok.
+<img src="/kepek/barbarok.jpg" alt="A Barbár vidékek térképe"  align="right">
+1 Jeges Vizek törzs
+2 Véres Kéz törzs
+3 Üvöltõ Szelek törzs
+4 A Szent Hely Védõi törzs
+5 Vérszomjasak törzs
+6 Fekete Medve törzs
+7 Földanya törzs
+8 Vizek Lovasa törzs
+9 Vasöklök törzs
+10 Mourmonn törzs
+11 Sólyomasszony törzs
+12 Fekete Vipera törzs
+13 Erdõ Szelleme törzs
+14 Figyelõk törzs
+15 Határvárad
+16 Füvesvár
+17 Tengerfokvárad
+18 Dombkapu
+19 Harmatvár
+20 Gyöngyvárad
+21 Kövesvárad
+22 Szürkevár
+23 Vízvárad
+24 Lazacpart
+25 Sziklavár
+26 Magosvár
+27 Nomádok (Dzsa'reb szökött szolgák, pásztorok, bujdosók) és kisebb városok.
 
 ## Az Északi Barbár Törzsek
 
@@ -112,7 +112,7 @@ Hadsereg: ennél a törzsnél is mindenki katona, a sámánnak nincs vezetõ szerepe, 
 ## A Déli Szövetség
 Hat törzs komoly szövetségi rendszere. Közös törzsi tanáccsal rendelkeznek, ennek a tanácsnak a fejét minden évben választják. Ne gondoljunk azonban valami demokratikus választási rendszerre, a törzsek szószólójának minden évben meg kell védenie a címét. Elsõ vérig tartó viadalokat vívnak, mind a hat törzs saját törzsfõnökét delegálhatja a viadalra. Erre a neves eseményre kialakult egy aréna, ami a Mourmonn törzs területén van, habár semleges területnek számít. Egy sziklás völgy van faragva, hogy a nézõközönségnek is kényelmes helye legyen. Az arénát természetesen másra is használják, a törzsek közötti vitás kérdések is az aréna porondján dõlnek el, ezeket a delegált bajnok, vagy a sértett a sértõ ellen, mikor hogy dönti el. Legtöbbször elsõ vérig tartanak a küzdelmek, gyilkosság, asszonyrablás, vagy lótolvajlás vádja esetén van engedélyezve a halálig tartó küzdelem. Az aréna köré egy komoly falu épült ki az évek folyamán, itt van a hat törzs kereskedelmi központja, itt van az az erõd, ahol a törzsi vezetõk találkoznak egymással. Az aréna befogadó képessége maximum 8000 fõ lehet, az erõd egy cölöpvár, földsáncokkal. A törzsek kereskednek a körülöttük élõkkel, a civilizáltabb barbár törzsek közé tartoznak. Léteznek utak, de általában csak kitaposott keréknyomokról van szó. Természetesen sugaras elrendezés alakult ki, minden fontosabb út az arénához vezet.
 
-### A hat törzs:
+A hat törzs:
 
 ### Vasöklök
 Régebben nagyobb területtel rendelkeztek, de mivel a fekete Medvének kellett az a rész, ahol fontos utak futottak össze, ezért elzavarta a kisebb törzset, ami ekkor kényszerült bele a törzsi szövetségbe. Harcias törzs, de nincsenek sokan.
