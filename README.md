@@ -33,7 +33,7 @@ Letöltés:
 
 - A varázslatok gyakorlati példái logikusabb helyre kerültek (rögtön a varázslás szabályai után). 
 - A térnövelés és rövidítés szorzó a varázslás gyakorlati példáiban megszűnt, nem volt semmi értelme. 
-- Az időtartam a távolság és a varázslat hatóterületének nehézségi módosítói megváltoztak a varázslász szabályaiban. 
+- Az időtartam a távolság és a varázslat hatóterületének nehézségi módosítói megváltoztak a varázslás szabályaiban. 
 - Bővült a barbárok leírása. 
 
 ### 2005. 05. 02. 
@@ -71,11 +71,11 @@ Letöltés:
 
 - Új karaktergenerálási szabályok. Minden csapat játékstílusához megfelelően választhat. 
 - A varázslás szabályai megváltoztak. 
-- Megszűnt az Időmagia képzettség. 
+- Megszűnt az Időmágia képzettség. 
 
 ### 2004. 10. 06. 
 
-- Komoly ráncfelvarrásson ment kereszül az oldal. A legfontosabb változás, hogy most már a webes szabálykönyv teljesen naprakész. 
+- Komoly ráncfelvarráson ment keresztül az oldal. A legfontosabb változás, hogy most már a webes szabálykönyv teljesen naprakész. 
 
 ### 2004. 06. 10. 
 
@@ -97,7 +97,7 @@ Letöltés:
 - A Vonzerő képesség megszűnt. Bevezettük helyette a csúnyaság hátrányt és a szépség előnyt. 
 - Egy képzettség első szinten való elsajátítása mostantól 2 Fejlődési pontba kerül. 
 - A Kapcsolatok képzettség kétszeres nehézségű lett. 
-- A Fájdalomtűrés képzettség ezentúl kicsit kibővitetten, Tűrőképesség néven él tovább. 
+- A Fájdalomtűrés képzettség ezentúl kicsit kibővítettem, Tűrőképesség néven él tovább. 
 - Az Egyensúlyozás és Esés képzettségeket beleolvasztottuk az Akrobatika képzettségbe. 
 - Új karakterlap! V14.0 
 
@@ -126,6 +126,6 @@ Letöltés:
 - Átalakultak a sebesülési kategóriák. 
 - Megszűnt a halálmentő. 
 - Bevezettük a kiegészítő képzettségre vonatkozó szabályokat. 
-- Emiatt a Harci tapasztalat képzettség egyszeres nehézségűvé vált, ellenben csak bonuszt ad az Éberség próbákhoz. 
+- Emiatt a Harci tapasztalat képzettség egyszeres nehézségűvé vált, ellenben csak bónuszt ad az Éberség próbákhoz. 
 - Új Karakterlap! V10.1 
 - Kitöltött karakterlap minta!      
