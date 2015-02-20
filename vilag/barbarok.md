@@ -7,6 +7,7 @@ A RogueS alapvetõen az Elda Birodalomra épített játék, így a Birodalom szemszögé
 ### A Barbár vidékek térképe
 
 <img src="/kepek/barbarok.jpg" alt="A Barbár vidékek térképe"  align="right">
+
 1 Jeges Vizek törzs
 2 Véres Kéz törzs
 3 Üvöltõ Szelek törzs
