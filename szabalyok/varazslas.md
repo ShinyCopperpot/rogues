@@ -31,8 +31,8 @@ Varázslat <br> szintje|1 - 3|4 - 5|6 - 7|8 - 9|10 - 11|12-13|14+
 
 ### A varázsló kezdeményezése a különböző módszerekkel:
 
-Módszer|Kezdeményezés bonusz| 
--------|:------------------:|:---:
+Módszer|Kezdeményezés bonusz|     |
+-------|:------------------:|:---:|
  |Kézifegyveres táv|Messzebbről
 Koncentráció|+ 3|+ 7
 Intés|-|+ 4
