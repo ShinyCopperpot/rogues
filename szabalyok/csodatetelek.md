@@ -3,7 +3,7 @@
 ## LÉLEK képesség
 Karakterünk lelkének emelkedettsége, istenével való szoros kapcsolata. A papi csodatételek előfeltétele.
 
-**A LÉLEK képesség alá tartozó képzettségek:**
+A LÉLEK képesség alá tartozó képzettségek:
 
 ### Igaz Hit (2):
 Ellenállás mindenféle gonosz szakrális hatalom befolyásának. Csak a ránk irányuló természetfeletti és papi csodatételek ellen hatásos. 
@@ -18,6 +18,7 @@ Egyfajta misztikus látás, a létezés síkjait közvetlenül érzékelve. Kara
 A papok csodatételének feltétele. Tanulási nehézsége függ a pap rangjától és istenétől.  
 **Feltétel:** Vallásismeret
 
+## Játékbeli használata
 Ha a pap csodát szeretne tenni, imában megkéri rá az istenét. A csoda létrejötte két dologtól függ: A pap szakértelmétől a csoda által befolyásolt területen, és attól, hogy az istennek mennyire tetsző dolgot hozna létre. Ez a játék nyelvére lefordítva azt jelenti, hogy pap karakterünk két képzettségpróbát tesz: egy világi képzettségből, ami a kérés bonyolultságától függ, és Szentségből, ami pedig attól függ, mennyire tetszik szándéka az istenének. 
 
 Nézzünk egy egyszerű példát: A kövek és tárnák istenének papja egy katedrálist szeretne teremteni a semmiből. A mesélő azt mondja, hogy ez istennek tetsző cselekedet, viszont nagyon bonyolult, ezért a Szentség próba nehézsége 10 lesz, míg az Építészet próbáé 24. Viszont, ha ellensége feje fölé szeretne egy sziklát teremteni, a Szentség próbájának nehézsége 24 lesz, hiszen istenének nem a gyilkolás a fő szférája, viszont építészetből elég a 6-ost megdobnia, hiszen nem kell túlzottan megmunkálni a sziklát.
