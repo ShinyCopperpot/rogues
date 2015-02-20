@@ -15,7 +15,7 @@ Lehoczky Péter
 # Tartalom
 [Szabálykönyv](TOC.md)
 
-Letöltés: 
+Letöltés:  
 [Karakterlap](letoltes/karlap.pdf)  
 [Mesélői Karakterlap](letoltes/m_karlap.pdf)
 
