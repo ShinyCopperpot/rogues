@@ -14,14 +14,14 @@ A papok varázslataira és az ereklyékre ezek a szabályok nem vonatkoznak, mer
 
 ### Mágiaszinttől függően ilyen világokat különböztetünk meg:
 
-Normál fantasy világ: A mana nem fogy el, ez előzőekben leírtaknak nincs semmi szerepük, vegyétek úgy, mintha el sem hangzott volna.
+- Normál fantasy világ: A mana nem fogy el, ez előzőekben leírtaknak nincs semmi szerepük, vegyétek úgy, mintha el sem hangzott volna.
 
-Ahol már elkezdett fogyni a mágia: Egy területen átlagosan 50-100 pontnyi mana van, az elfogyottak helyére naponta 5-10 pont töltődik vissza.
+- Ahol már elkezdett fogyni a mágia: Egy területen átlagosan 50-100 pontnyi mana van, az elfogyottak helyére naponta 5-10 pont töltődik vissza.
 
-Ahol erősen fogyóban van: Átlagosan 5-20 pont van területenként, naponta 0-4 pont jön vissza. Sok mágikusan halott terület. (A játék alap világa ezt a koncepciót használja. Ennél több manával rendelkező világokon valamit ki kell találni, amivel vissza lehet fogni a varázslókat, mert nagyon erősek.)
+- Ahol erősen fogyóban van: Átlagosan 5-20 pont van területenként, naponta 0-4 pont jön vissza. Sok mágikusan halott terület. (A játék alap világa ezt a koncepciót használja. Ennél több manával rendelkező világokon valamit ki kell találni, amivel vissza lehet fogni a varázslókat, mert nagyon erősek.)
 
-Ahol már elfogyott: Nos, itt már csak különleges esetekben lehet varázsolni, úgymint isteni csoda, emberáldozás, stb. 
+- Ahol már elfogyott: Nos, itt már csak különleges esetekben lehet varázsolni, úgymint isteni csoda, emberáldozás, stb. 
 
-Végül pedig itt a végső fegyver leírása: A pörgő rézkorong varázstárgy.
+### Végül pedig itt a végső fegyver leírása: A pörgő rézkorong varázstárgy
 
 Anyagi összetevő egy rézkorong. Rajta két varázslat jelei: egy lebegtető és összetartó varázs (Anyagmágia, 1. szint, kétszer), és a pörgetés. Ez egy összetett varázslat (Anyagmágia, 1. szint, és magasmágia, 2. szint). Működése egyszerű: gyorsít a korong pörgésén, és létrehozza saját magát újra. Nincs határ. A korong körönként egy manapontot szív el a környezetéből. Ha az összes manát elszívta, szétrobban. Sebzése a forgás síkjában hat, és annyi pont, amennyi manát elszívott. A sebzés egyharmad méterenként eggyel csökken. A forgást csak mágiasemlegesítéssel lehet megállítani.
