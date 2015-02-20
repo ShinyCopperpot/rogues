@@ -19,7 +19,7 @@ Semmi hátrány, csak fáj.
 
 ### Könnyű seb:
 Határai: A maximális negyedétől a feléig.  
-- 1 ÜGYESSÉG, eléggé vérzik.  
+ - 1 ÜGYESSÉG, eléggé vérzik.  
 Ájulásmentő.
 
 ### Súlyos seb:
@@ -51,12 +51,13 @@ A megfelelő gyógyszerek használatához sikeres gyógyítás képzettségprób
 
 A zúzódások sokkal gyorsabban gyógyulnak, egy óra alatt egy pontnyi gyógyulhat meg belőlük. Megfelelő gyógyszereket vagy gyógyfüveket alkalmazva zúzódásaink kétszer ilyen gyorsan gyógyulhatnak.
 
-## A mágikus gyógyítás:
+### A mágikus gyógyítás:
 A mágiával kezelt sebek heg nélkül összeforrnak, az ilyen gyógyításhoz semmi segédeszköz nem szükséges. A varázslat végén a hatás azonnal megjelenik, a beteg gyógyultnak tekinthető. A varázsló gyógyítása csak ideiglenes (időmágiával meghosszabbítható az időtartama), ellenben a papok gyógyítása végleges hatású.
 
 Karakterünkre mindig csak a legmagasabb szintű gyógyítás érvényes, nem lehet sok apró varázslattal felgyógyítani. A következő ugyanolyan, vagy alacsonyabb szintű gyógyítás csak 12 órával az első után működik, eddigre dolgozza fel a szervezet a kapott életerőt. Ha a varázsló gyógyítása legalább eddig tart, a beteg véglegesen meggyógyul.
 
 A mágikus gyógyítás hatása:
+
 A varázslat szintje|A gyógyítható seb|Sebpont gyógyulás
 :-----------------:|-----------------|:---------------:
 0|Enyhe fájdalom, gyenge vérzés|1
