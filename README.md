@@ -1,4 +1,6 @@
-# RogueS
+<img src="/kepek/rs.jpg" alt="RogueS"  align="right">
+
+# RogueS szerepjáték
 
 ## Mi is a RogueS? Alapelvek, célok
 
