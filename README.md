@@ -14,11 +14,10 @@ Lehoczky Péter
 
 # Tartalom
 [Szabálykönyv](TOC.md)
-[Karaktergenerátor]
 
 Letöltés: 
-[Karakterlap]
-[Mesélői Karakterlap]
+[Karakterlap](letoltes/karlap.pdf)  
+[Mesélői Karakterlap](letoltes/m_karlap.pdf)
 
 ## Hírek:
 
@@ -66,7 +65,7 @@ Letöltés:
 - A PDF-ben letölthető szabálykönyv megszűnt, helyette a webes szabálykönyv kapott nyomtatóbarát elrendezést. 
 - Új karakterlap! V16.1 
 - Mesélői Karakterlap! 
-- [Online Karaktergenerátor!]
+- Online Karaktergenerátor!
 
 ### 2004. 11. 20. 
 
