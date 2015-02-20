@@ -8,33 +8,33 @@ A RogueS alapvetõen az Elda Birodalomra épített játék, így a Birodalom szemszögé
 
 <img src="/kepek/barbarok.jpg" alt="A Barbár vidékek térképe"  align="right">
 
-1 Jeges Vizek törzs
-2 Véres Kéz törzs
-3 Üvöltõ Szelek törzs
-4 A Szent Hely Védõi törzs
-5 Vérszomjasak törzs
-6 Fekete Medve törzs
-7 Földanya törzs
-8 Vizek Lovasa törzs
-9 Vasöklök törzs
-10 Mourmonn törzs
-11 Sólyomasszony törzs
-12 Fekete Vipera törzs
-13 Erdõ Szelleme törzs
-14 Figyelõk törzs
-15 Határvárad
-16 Füvesvár
-17 Tengerfokvárad
-18 Dombkapu
-19 Harmatvár
-20 Gyöngyvárad
-21 Kövesvárad
-22 Szürkevár
-23 Vízvárad
-24 Lazacpart
-25 Sziklavár
-26 Magosvár
-27 Nomádok (Dzsa'reb szökött szolgák, pásztorok, bujdosók) és kisebb városok.
+1. Jeges Vizek törzs
+2. Véres Kéz törzs
+3. Üvöltõ Szelek törzs
+4. A Szent Hely Védõi törzs
+5. Vérszomjasak törzs
+6. Fekete Medve törzs
+7. Földanya törzs
+8. Vizek Lovasa törzs
+9. Vasöklök törzs
+10. Mourmonn törzs
+11. Sólyomasszony törzs
+12. Fekete Vipera törzs
+13. Erdõ Szelleme törzs
+14. Figyelõk törzs
+15. Határvárad
+16. Füvesvár
+17. Tengerfokvárad
+18. Dombkapu
+19. Harmatvár
+20. Gyöngyvárad
+21. Kövesvárad
+22. Szürkevár
+23. Vízvárad
+24. Lazacpart
+25. Sziklavár
+26. Magosvár
+27. Nomádok (Dzsa'reb szökött szolgák, pásztorok, bujdosók) és kisebb városok.
 
 ## Az Északi Barbár Törzsek
 
