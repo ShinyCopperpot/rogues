@@ -1,6 +1,8 @@
-# A képzettségek listája
+# Képzettségek
 
 Néhány képzettség előfeltétele egy másik képzettség tanulása. Képzettségünk szintje legfeljebb akkora lehet, mint amekkora a hozzá szükséges másik képzettség.
+
+# A képzettségek listája
 
 ## AURA:
 
